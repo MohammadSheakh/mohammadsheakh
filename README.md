@@ -16,20 +16,20 @@ See `contributing.md` for ways to get started.
 #
 👩‍💻 I'm currently working on...
 
-🧠 I'm currently learning...
-
+🧠 I'm currently learning Payload CMS
+<!---
 👯‍♀️ I'm looking to collaborate on...
 
 🤔 I'm looking for help with...
 
 💬 Ask me about...
-
-📫 How to reach me...
-
+-->
+📫 Reach Me 01518419801
+<!---
 😄 Pronouns...
 
 ⚡️ Fun fact...
-
+-->
 
 
 ## 🔗 Links
@@ -50,7 +50,7 @@ function App() {
 ```
 
 @ Credit Goes to : https://readme.so
-
+<!---
 ## Hi there 👋
 
 
@@ -66,4 +66,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
