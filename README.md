@@ -33,7 +33,7 @@ See `contributing.md` for ways to get started.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![CV](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://flowcv.com/resume/sm0eusv71i)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-sheakh)
 [![CV](https://img.shields.io/badge/CV-0A66C2?style=for-the-badge&logo=readdotcv&logoColor=white)](https://flowcv.com/resume/sm0eusv71i)
 
