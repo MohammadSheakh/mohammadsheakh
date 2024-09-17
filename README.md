@@ -33,9 +33,10 @@ See `contributing.md` for ways to get started.
 
 
 ## 🔗 Links
-[![CV](https://img.shields.io/badge/my_CV-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://flowcv.com/resume/sm0eusv71i)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-sheakh)
-[![CV](https://img.shields.io/badge/CV-0A66C2?style=for-the-badge&logo=readdotcv&logoColor=white)](https://flowcv.com/resume/sm0eusv71i)
+[![CV](https://img.shields.io/badge/my_CV-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://flowcv.com/resume/sm0eusv71i)
+[![Youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.youtube.com/@galleryOfSheakh)
 
 
 
