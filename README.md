@@ -11,20 +11,12 @@
  https://docs.google.com/spreadsheets/d/1uA2JVidfuj00DNhSjdnuYX4aC9hTf-399Ib-b-hPLRc/edit?usp=sharing
 ```
 
-| Parameter |   Description                                                                  |
-| :-------- |  :---------------------------------------------------------------------------  |
-| `back_end` |   **`Nest Js `  `Express Js`  `Asp.net Web API` `Payload CMS`**           |
-| `front_end` |   **`Next Js` `Tanstack Query` `Justand` `Tailwind CSS` `Svelte`**      |
-| `database` |   **`PostgreSQL` `MongoDB` `Drizzle` `Type ORM`**                          |
-| `tools` |   **`Postman` `Figma Prototyping`**                                             |
-
-<!--
-| `back_end` | `string` | **Required**. Your API key                                                   |
-
-| `api_key` | `string` | ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)                       |
-
-| `api_key` | `string` | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  |
--->
+| Category    |   Skills                                                                       |
+| :--------   |  :---------------------------------------------------------------------------  |
+| `back_end`  |   **`Nest Js `  `Express Js`  `Asp.net Web API` `Payload CMS`**                |
+| `front_end` |   **`Next Js` `Tanstack Query` `Justand` `Tailwind CSS` `Svelte`**             |
+| `database`  |   **`PostgreSQL` `MongoDB` `Drizzle` `Type ORM`**                              |
+| `tools`     |   **`Postman` `Figma Prototyping`**                                            |
 
 
 
