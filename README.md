@@ -6,7 +6,7 @@
  -->
  
 ```http
-  GET /api/items
+  GET /api/items  https://docs.google.com/spreadsheets/d/1uA2JVidfuj00DNhSjdnuYX4aC9hTf-399Ib-b-hPLRc/edit?usp=sharing
 ```
 
 | Parameter |     | Description                                                                  |
