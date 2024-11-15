@@ -4,14 +4,20 @@
  - frf
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  -->
- 
+ <!---
 ```http
   GET /api/items 
 ```
-
+ -->
+ 
+ @ Work Details :
+```http
+  [Google SpreadSheet Link](https://docs.google.com/spreadsheets/d/1uA2JVidfuj00DNhSjdnuYX4aC9hTf-399Ib-b-hPLRc/edit?usp=sharing)
+```
+  <!---
 @ Work Details : [Google SpreadSheet Link](https://docs.google.com/spreadsheets/d/1uA2JVidfuj00DNhSjdnuYX4aC9hTf-399Ib-b-hPLRc/edit?usp=sharing)
  
- 
+  -->
 | Parameter |     | Description                                                                  |
 | :-------- | :------- | :--------------------------------------------------------------------------- |
 | `back_end` |  | **Nest Js, Express Js, Asp.net Web API, Payload CMS**                       |
