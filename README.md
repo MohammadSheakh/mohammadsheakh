@@ -11,9 +11,11 @@
 
 | Parameter | Type     | Description                                                                  |
 | :-------- | :------- | :--------------------------------------------------------------------------- |
-| `api_key` | `string` | **Required**. Your API key                                                   |
-| `api_key` | `string` | **Required**. Your API key                                                   |
+| `back_end` | `string` | **Nest Js, Express Js, Asp.net Web API, Payload CMS**                       |
+| `front_end` | `string` | **Next Js, Tanstack Query, Justand, Tailwind CSS, Svelte**                 |
+
 <!--
+| `back_end` | `string` | **Required**. Your API key                                                   |
 
 | `api_key` | `string` | ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)                       |
 
