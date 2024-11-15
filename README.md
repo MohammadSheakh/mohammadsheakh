@@ -12,6 +12,8 @@
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
+| :-------- | :------- | :------------------------- |
+| `api_key` | `string` | ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) |
 
 See `contributing.md` for ways to get started.
 #
