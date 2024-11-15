@@ -9,10 +9,11 @@
   GET /api/items
 ```
 
-| Parameter | Type     | Description                                                                  |
+| Parameter |     | Description                                                                  |
 | :-------- | :------- | :--------------------------------------------------------------------------- |
-| `back_end` | `string` | **Nest Js, Express Js, Asp.net Web API, Payload CMS**                       |
-| `front_end` | `string` | **Next Js, Tanstack Query, Justand, Tailwind CSS, Svelte**                 |
+| `back_end` |  | **Nest Js, Express Js, Asp.net Web API, Payload CMS**                       |
+| `front_end` |  | **Next Js, Tanstack Query, Justand, Tailwind CSS, Svelte**                 |
+| `database` |  | **Next Js, Tanstack Query, Justand, Tailwind CSS, Svelte**                 |
 
 <!--
 | `back_end` | `string` | **Required**. Your API key                                                   |
