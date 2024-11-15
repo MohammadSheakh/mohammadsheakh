@@ -6,9 +6,12 @@
  -->
  
 ```http
-  GET /api/items  https://docs.google.com/spreadsheets/d/1uA2JVidfuj00DNhSjdnuYX4aC9hTf-399Ib-b-hPLRc/edit?usp=sharing
+  GET /api/items 
 ```
 
+@ Credit Goes to : [https://readme.so](https://docs.google.com/spreadsheets/d/1uA2JVidfuj00DNhSjdnuYX4aC9hTf-399Ib-b-hPLRc/edit?usp=sharing)
+ 
+ 
 | Parameter |     | Description                                                                  |
 | :-------- | :------- | :--------------------------------------------------------------------------- |
 | `back_end` |  | **Nest Js, Express Js, Asp.net Web API, Payload CMS**                       |
