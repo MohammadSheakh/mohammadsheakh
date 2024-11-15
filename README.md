@@ -13,10 +13,10 @@
 
 | Parameter |   Description                                                                  |
 | :-------- |  :---------------------------------------------------------------------------  |
-| `back_end` |   ** `Nest Js ` , `Express Js`, `Asp.net Web API`, `Payload CMS` **           |
-| `front_end` |   ** `Next Js`, `Tanstack Query`, `Justand`, `Tailwind CSS`, `Svelte`**      |
-| `database` |   **`PostgreSQL`, `MongoDB`, `Drizzle`, `Type ORM`**                          |
-| `tools` |   **`Postman`, `Figma Prototyping`**                                             |
+| `back_end` |   **`Nest Js `  `Express Js`  `Asp.net Web API` `Payload CMS`**           |
+| `front_end` |   **`Next Js` `Tanstack Query` `Justand` `Tailwind CSS` `Svelte`**      |
+| `database` |   **`PostgreSQL` `MongoDB` `Drizzle` `Type ORM`**                          |
+| `tools` |   **`Postman` `Figma Prototyping`**                                             |
 
 <!--
 | `back_end` | `string` | **Required**. Your API key                                                   |
