@@ -12,14 +12,14 @@
 | Parameter | Type     | Description                                                                  |
 | :-------- | :------- | :--------------------------------------------------------------------------- |
 | `api_key` | `string` | **Required**. Your API key                                                   |
-
+| `api_key` | `string` | **Required**. Your API key                                                   |
 <!--
 
 | `api_key` | `string` | ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)                       |
 
 | `api_key` | `string` | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  |
 -->
-| `api_key` | `string` | **Required**. Your API key                                                   |
+
 
 
 See `contributing.md` for ways to get started.
