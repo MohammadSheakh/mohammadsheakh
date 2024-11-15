@@ -1,8 +1,9 @@
 
 ### Assalamu Alaikum, I'm Mohammad Bin Ab. Jalil Sheakh 👋
-
+<!---
  - frf
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ -->
  
 ```http
   GET /api/items
@@ -14,8 +15,9 @@
 
 See `contributing.md` for ways to get started.
 #
-👩‍💻 I'm currently working on...
-
+<!---
+👩‍💻 I'm currently working on 
+-->
 🧠 I'm currently learning Payload CMS
 <!---
 👯‍♀️ I'm looking to collaborate on...
