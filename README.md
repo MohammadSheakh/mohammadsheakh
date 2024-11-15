@@ -19,8 +19,6 @@
 | `tools`     |   **`Postman` `Figma Prototyping`**                                            |
 
 
-
-See `contributing.md` for ways to get started.
 #
 <!---
 👩‍💻 I'm currently working on 
