@@ -11,12 +11,12 @@
  https://docs.google.com/spreadsheets/d/1uA2JVidfuj00DNhSjdnuYX4aC9hTf-399Ib-b-hPLRc/edit?usp=sharing
 ```
 
-| Parameter |     | Description                                                                  |
-| :-------- | :------- | :--------------------------------------------------------------------------- |
-| `back_end` |  | **Nest Js, Express Js, Asp.net Web API, Payload CMS**                       |
-| `front_end` |  | **Next Js, Tanstack Query, Justand, Tailwind CSS, Svelte**                 |
-| `database` |  | **PostgreSQL, MongoDB, Drizzle, Type ORM**                 |
-| `tools` |  | **Postman, Figma Prototyping**                 |
+| Parameter |   Description                                                                  |
+| :-------- |  :---------------------------------------------------------------------------  |
+| `back_end` |   ** `Nest Js ` , `Express Js`, `Asp.net Web API`, `Payload CMS` **           |
+| `front_end` |   ** `Next Js`, `Tanstack Query`, `Justand`, `Tailwind CSS`, `Svelte`**      |
+| `database` |   **`PostgreSQL`, `MongoDB`, `Drizzle`, `Type ORM`**                          |
+| `tools` |   **`Postman`, `Figma Prototyping`**                                             |
 
 <!--
 | `back_end` | `string` | **Required**. Your API key                                                   |
