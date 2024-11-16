@@ -23,7 +23,7 @@
 <!---
 👩‍💻 I'm currently working on 
 -->
-🧠 I'm currently learning Payload CMS
+🧠 I'm currently learning [DSA N ALGO](https://www.youtube.com/watch?v=wBtPGnVnA9g)
 <!---
 👯‍♀️ I'm looking to collaborate on...
 
