@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Assalamu+Alaikum%2C+I'm+Mohammad+Bin+Ab.+Jalil+Sheakh+%F0%9F%91%8B" alt="Typing SVG" /></a>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Assalamu+Alaikum%2C+I'm+Mohammad+Bin+Ab.+Jalil+Sheakh+%F0%9F%91%8B)](https://git.io/typing-svg)
 <!---
 ### Assalamu Alaikum, I'm Mohammad Bin Ab. Jalil Sheakh 👋
