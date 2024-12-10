@@ -1,6 +1,6 @@
 
-### Assalamu Alaikum,
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Mohammad+Bin+Ab.+Jalil+Sheakh+%F0%9F%91%8B)](https://git.io/typing-svg)
+### Assalamu Alaikum, I'm
+I'm [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Mohammad+Bin+Ab.+Jalil+Sheakh+%F0%9F%91%8B)](https://git.io/typing-svg)
 <!---
 ### Assalamu Alaikum, I'm Mohammad Bin Ab. Jalil Sheakh 👋
  -->
