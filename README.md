@@ -17,11 +17,13 @@
 
 | Category    |   Skills                                                                       |
 | :--------   |  :---------------------------------------------------------------------------  |
-| `back_end`  |   **`Nest Js `  `Express Js`  `Asp.net Web API` ``**                |
-| `front_end` |   **`Next Js` `Tanstack Query` `Justand` `Tailwind CSS` `Svelte`**             |
+| `back_end`  |   **`Express Js`  `Nest Js` `Asp.net Web API` ``**                |
 | `database`  |   **`PostgreSQL` `MongoDB` `Drizzle` `Type ORM`**                              |
 | `tools`     |   **`Postman` `Figma Prototyping`**                                            |
 
+<!---
+| `front_end` |   **`Next Js` `Tanstack Query` `Justand` `Tailwind CSS` `Svelte`**             |
+-->
 
 #
 <!---
