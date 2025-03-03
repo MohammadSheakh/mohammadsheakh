@@ -17,7 +17,7 @@
 
 | Category    |   Skills                                                                       |
 | :--------   |  :---------------------------------------------------------------------------  |
-| `back_end`  |   **`Express Js`  `Nest Js` `Asp.net Web API` ``**                |
+| `back_end`  |   **`Express Js`  `Nest Js` `Asp.net Web API`**                |
 | `database`  |   **`PostgreSQL` `MongoDB` `Drizzle` `Type ORM`**                              |
 | `tools`     |   **`Postman` `Figma Prototyping`**                                            |
 
