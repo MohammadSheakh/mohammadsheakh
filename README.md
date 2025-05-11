@@ -18,9 +18,9 @@
 
 | Category    |   Skills                                                                       |
 | :--------   |  :---------------------------------------------------------------------------  |
-| `back_end`  |   ** `Express Js`  **                |
-| `database`  |   ** `MongoDB` **                              |
-| `tools`     |   ** `Postman` `test` **                                            |
+| `back_end`  |    `Express Js`                  |
+| `database`  |    `MongoDB`                               |
+| `tools`     |    `Postman`                                             |
 
 <!---
 | `front_end` |   **`Next Js` `Tanstack Query` `Justand` `Tailwind CSS` `Svelte`**             |
