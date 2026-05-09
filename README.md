@@ -22,7 +22,7 @@
 | `database`  |    `PostgreSQL` `MongoDB` `Prisma`                               |
 | `DevOps & tools`     |  `Docker`  `GitHub CI/CD`  `Postman`                                             |
 | `Messaging & Queues`     |    `BullMQ`                                             |
-
+| `Payments`     |    `Stripe` `Revenue Cat` `sslcommerz`                                             |
 
 <!---
 | `front_end` |   **`Next Js` `Tanstack Query` `Justand` `Tailwind CSS` `Svelte`**             |
