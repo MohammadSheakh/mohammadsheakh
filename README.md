@@ -9,6 +9,11 @@
  - [Awesome README](https://github.com/matiassingers/awesome-readme) 
  -->
 
+🇧🇩 Dhaka-based backend developer who enjoys turning complex business logic
+into clean, scalable APIs. 1+ year of professional experience across
+Node.js · TypeScript · PostgreSQL · MongoDB · BullMQ · Socket.io.
+I care about writing code that's maintainable — not just code that works.
+Currently grinding DSA on LeetCode.
 
  
  @ Work Details :
