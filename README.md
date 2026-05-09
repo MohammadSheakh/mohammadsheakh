@@ -18,8 +18,8 @@
 
 | Category    |   Skills                                                                       |
 | :--------   |  :---------------------------------------------------------------------------  |
-| `back_end`  |    `Express Js`                  |
-| `database`  |    `MongoDB`                               |
+| `back_end`  |    `Nest Js`  `Express Js`                  |
+| `database`  |    `PostgreSQL` `MongoDB` `Prisma`                               |
 | `tools`     |    `Postman`                                             |
 
 <!---
