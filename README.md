@@ -20,7 +20,9 @@
 | :--------   |  :---------------------------------------------------------------------------  |
 | `back_end`  |    `Nest Js`  `Express Js`                  |
 | `database`  |    `PostgreSQL` `MongoDB` `Prisma`                               |
-| `tools`     |    `Postman`                                             |
+| `DevOps & tools`     |  `Docker`  `GitHub CI/CD`  `Postman`                                             |
+| `Messaging & Queues`     |    `BullMQ`                                             |
+
 
 <!---
 | `front_end` |   **`Next Js` `Tanstack Query` `Justand` `Tailwind CSS` `Svelte`**             |
