@@ -18,26 +18,24 @@
 
 | Category    |   Skills                                                                       |
 | :--------   |  :---------------------------------------------------------------------------  |
-| `back_end`  |    `Nest Js`  `Express Js`                  |
-| `database`  |    `PostgreSQL` `MongoDB` `Prisma`                               |
-| `DevOps & tools`     |  `Docker`  `GitHub CI/CD`  `Postman`                                             |
-| `Messaging & Queues`     |    `BullMQ`                                             |
+| `Backend`  |    `NestJs`  `ExpressJs`                  |
+| `Database`  |    `PostgreSQL` `MongoDB` `Prisma`                               |
+| `DevOps`     |  `Docker`  `GitHub Actions`                                              |
+| `Queue Systems`     |    `BullMQ`                                             |
 | `Payments`     |    `Stripe` `Revenue Cat` `sslcommerz`                                             |
 
-<!---
-| `front_end` |   **`Next Js` `Tanstack Query` `Justand` `Tailwind CSS` `Svelte`**             |
 
-`Nest Js` `Asp.net Web API`
-`Drizzle` `Type ORM`
-`PostgreSQL`
-`Figma Prototyping`
--->
 
 #
 <!---
 👩‍💻 I'm currently working on 
 -->
-🧠 I'm currently learning [DSA N ALGO](https://github.com/MohammadSheakh/LeetCode)
+🧠 I'm currently exploring
+
+- Data Structures & Algorithms
+- System Design
+- Scalable Backend Architecture
+
 <!---
 👯‍♀️ I'm looking to collaborate on...
 
@@ -59,6 +57,23 @@
 [![CV](https://img.shields.io/badge/my_CV-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1mP-caLvua75Nmj881YruesI5VFj6Nc8h/view?usp=sharing)
 [![Youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.youtube.com/@galleryOfSheakh)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadSheakh&label=Profile%20views&color=0e75b6&style=flat" alt="farvez999" /> </p>
+
+
+## 🚀 Featured Projects
+
+### Suplify
+Health & fitness subscription platform with:
+- Stripe subscriptions
+- Doctor consultation system
+- Workout & nutrition plans
+- Role-based dashboard
+
+Tech: NestJS, PostgreSQL, Prisma, Stripe
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadSheakh&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSheakh&layout=compact)
 
 <!---
 ## Usage/Examples
@@ -90,4 +105,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadSheakh&label=Profile%20views&color=0e75b6&style=flat" alt="farvez999" /> </p>
+ 
