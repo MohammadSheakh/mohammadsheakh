@@ -13,7 +13,7 @@
 into clean, scalable APIs. 1+ year of professional experience across
 Node.js · TypeScript · PostgreSQL · MongoDB · BullMQ · Socket.io.
 I care about writing code that's maintainable — not just code that works.
-Currently grinding DSA on LeetCode.
+
 
  
  @ Work Details :
@@ -37,7 +37,6 @@ Currently grinding DSA on LeetCode.
 -->
 🧠 I'm currently exploring
 
-- Data Structures & Algorithms
 - System Design
 - Scalable Backend Architecture
 
@@ -66,6 +65,15 @@ Currently grinding DSA on LeetCode.
 
 
 ## 🚀 Featured Projects
+
+**Alora**
+Smart Apartment Management Backend with:
+• Multi-tenant architecture (5+ roles: Admin, Owner, Agent, Renter, Crew)
+• Flexible billing engine (Standard/Custom/Personalized bills)
+• Rental application workflow + Maintenance ticketing system
+• Document vault + Event calendar + Payment integration
+Tech: NestJS, MongoDB, TypeScript, Stripe, Redis, BullMQ
+
 
 ### Suplify
 Health & fitness subscription platform with:
