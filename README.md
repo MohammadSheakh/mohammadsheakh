@@ -57,7 +57,7 @@ I care about writing code that's maintainable — not just code that works.
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammadsheakh)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mohammadsheakh)
 [![CV](https://img.shields.io/badge/my_CV-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1mP-caLvua75Nmj881YruesI5VFj6Nc8h/view?usp=sharing)
 [![Youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.youtube.com/@galleryOfSheakh)
 
